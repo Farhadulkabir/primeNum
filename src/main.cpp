@@ -1,3 +1,5 @@
+// Main source file
+
 #include "isPrime.h"
 #include <iostream>
 void printPrimeTilln();
