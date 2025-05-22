@@ -1,4 +1,3 @@
-
 #include "isPrime.h"
 #include <iostream>
 void printPrimeTilln();
