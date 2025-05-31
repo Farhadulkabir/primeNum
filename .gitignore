@@ -12,3 +12,4 @@ Session.vim
 _deps
 CMakeUserPresets.json
 .cache/
+out
