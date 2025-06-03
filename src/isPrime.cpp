@@ -1,4 +1,3 @@
-//ugabuga
 #pragma once
 #include "isPrime.h"
 bool isPrime(unsigned long long x) {

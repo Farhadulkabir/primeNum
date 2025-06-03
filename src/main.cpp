@@ -1,10 +1,6 @@
-// Main source file
-
 #include "isPrime.h"
+#include "primeIO.h"
 #include <iostream>
-void printPrimeTilln();
-void printnthPrime();
-void printFirstnPrimes();
 int main() {
   int choice;
   std::cout
